@@ -13,4 +13,4 @@
 3. all tests folder run:
     jasmine "spec/**/critical/*Spec.js" // some path that you will create
 4. single file test run:
-    jasmine src/spec/tests.js
+    jasmine spec/components/mathCalc.spec.js
